@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hey there 👋, I'm Varshini</b></h1>
 <p align="center"><b>A Curious Data Analyst with a Passion for Unveiling Insights</b><br><br>🚀Tech Explorer | Aspiring Data Scientist | Leveraging Data to Drive Impact 📊</p>
-
+<br>
+<br>
 
 - 🌱 Currently diving deep into Advanced Data Analytics and exploring Machine Learning.
-
 
 - 💬 Reach out if you're interested in Data Visualization, Data Modeling, or Web Development.
 
