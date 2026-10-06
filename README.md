@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 Currently diving deep into Web Development and exploring Machine Learning.
+- 🌱 Currently diving deep into Web Development and exploring AI.
 
 - 📧 Let’s connect: <a href="mailto:varshulogu04@gmail.com">varshulogu04@gmail.com</a>
 
