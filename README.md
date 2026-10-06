@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hey there 👋, I'm Varshini</b></h1>
-<p align="center"><b>A Curious Data Analyst with a Passion for Unveiling Insights</b><br><br>🚀Tech Explorer | Aspiring Full Stack Developer 📊</p>
+<p align="center"><b>A Curious Web Developer</b><br><br>🚀Tech Explorer | Aspiring Full Stack Developer 📊</p>
 <br>
 <br>
 
