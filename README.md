@@ -5,8 +5,6 @@
 
 - 🌱 Currently diving deep into Web Development and exploring Machine Learning.
 
-- 💬 Reach out if you're interested in Data Visualization, Data Modeling, or Web Development.
-
 - 📧 Let’s connect: <a href="mailto:varshulogu04@gmail.com">varshulogu04@gmail.com</a>
 
 - 📄 Learn more about me on <a href="www.linkedin.com/in/varshini-loganathan0427" target="_blank">LinkedIn</a>
