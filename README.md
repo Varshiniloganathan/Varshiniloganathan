@@ -9,9 +9,6 @@
 
 - 📄 Learn more about me on <a href="www.linkedin.com/in/varshini-loganathan0427" target="_blank">LinkedIn</a>
 
--  ⚡ "Every dataset holds a story, and it's up to us to uncover it!"
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/varshini-loganathan0427 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshulogu04@gmail.com) 
